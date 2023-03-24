@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32487706662",
+    "project_id": "firecrud-836f2",
+    "storage_bucket": "firecrud-836f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32487706662:android:955c53291c0a79711ed6e7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_239320_firecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32487706662-ssbrsic83il54uqmnpbgpt1765rsr1a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby2T0MKE8uASFkx_W345SAdyTDCNZbNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32487706662-ssbrsic83il54uqmnpbgpt1765rsr1a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
